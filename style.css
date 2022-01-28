@@ -1,0 +1,53 @@
+
+.slick-slider{
+    display: flex !important;
+}
+.slick-next{
+    background: none !important;
+    border: none !important;
+    font-size: 50px;
+}
+.slick-prev{
+    background: none !important;
+    border: none !important;
+    font-size: 50px;
+}
+.slider{
+    margin: 0;
+    padding-top: 50px;
+    border: 2px solid;
+    background-color: bisque;
+    height: 600px;
+}
+img{
+    width: 200px;
+    height: 300px !important;
+    /* width: 20rem; */
+    
+
+}
+.card-body{
+    text-align: center;
+    height: 18rem;
+    /* width: 20rem; */
+}
+.card{
+    margin-right: 20px;
+    height: 18rem;
+    width: 20rem;
+    
+}
+.slider1{
+    margin: 0;
+    padding-top: 50px;
+    border: 2px solid;
+    background-color: bisque;
+    height: 600px;
+}
+.slider2{
+    margin: 0;
+    padding-top: 50px;
+    border: 2px solid;
+    background-color: bisque;
+    height: 500px;
+}
